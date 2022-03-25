@@ -33,6 +33,7 @@ while (tentativa > 0):
         elif jogador == 1:
             print('Jogador venceu!')
             jogador_vence +=1
+            
         elif jogador == 2:
             print('Computador venceu!')
             comp_vence += 1
